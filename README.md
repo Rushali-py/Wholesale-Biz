@@ -6,10 +6,10 @@ This project is a comprehensive data-driven web application developed using Pyth
 The system aims to replace manual records with a centralized digital interface that supports real-time interaction with data, efficient reporting, and insightful analytics—all without relying on complex databases.
 
 Objectives
-    1. To build a modular and user-friendly interface for managing wholesale business activities.
-    2. To implement inventory control, sales tracking, and supplier coordination using simple data structures.
-    3. To empower users with data visualization tools for drawing insights from business operations.
-    4. To use image processing techniques for managing product visuals and enhancing product-related assets.
+1. To build a modular and user-friendly interface for managing wholesale business activities.
+2. To implement inventory control, sales tracking, and supplier coordination using simple data structures.
+3. To empower users with data visualization tools for drawing insights from business operations.
+4. To use image processing techniques for managing product visuals and enhancing product-related assets.
 
 Application Scope
 This project is designed for:
@@ -20,13 +20,13 @@ This project is designed for:
     5. Educational/demo purposes for learners to understand how to integrate data science and web development.
 
 Technologies Used
-    1. Python 3.12 – Core programming language.
-    2. Streamlit – Web interface framework for building interactive dashboards with minimal code.
-    3. Pandas – Primary library for handling tabular data and filtering operations.
-    4. NumPy – Supplementary library for numerical calculations.
-    5. Matplotlib – Used for drawing bar graphs, histograms, pie charts, and line plots.
-    6. Seaborn – Visualization library for heatmaps and boxplots.
-    7. Pillow (PIL) – Image processing library for enhancements and transformations.
+1. Python 3.12 – Core programming language.
+2. Streamlit – Web interface framework for building interactive dashboards with minimal code.
+3. Pandas – Primary library for handling tabular data and filtering operations.
+4. NumPy – Supplementary library for numerical calculations.
+5. Matplotlib – Used for drawing bar graphs, histograms, pie charts, and line plots.
+6. Seaborn – Visualization library for heatmaps and boxplots.
+7. Pillow (PIL) – Image processing library for enhancements and transformations.
 
 CSV Files – Used as data stores simulating lightweight database tables.
 Functional Modules
